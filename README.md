@@ -1,12 +1,12 @@
 A simple To-Do List manager implemented in Python, available in two versions:
 
 
-🖥️ GUI Version (main.py) 
+🖥️ GUI Version (gui.py) 
 
 Desktop app built with Tkinter for easy task management.
 
 
-🖥️ Console Version (console-version.py)
+🖥️ CLI Version (main.py)
 
 A terminal-based version for quick task input and management.
 
